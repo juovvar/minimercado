@@ -1,2 +1,2 @@
-# minimercado
+# Mini Mercado
 
